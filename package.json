@@ -1,0 +1,11 @@
+{
+  "name": "threesumclosest",
+  "version": "1.0.0",
+  "description": "find sum of 3 numbers closest to target",
+  "main": "threeSumClosestPointers.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
